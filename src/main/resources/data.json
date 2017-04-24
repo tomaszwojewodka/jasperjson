@@ -1,0 +1,17 @@
+{
+  "id": 100,
+  "people": [
+    {
+      "id": 1,
+      "name": "John Doe"
+    },
+    {
+      "id": 2,
+      "name": "Marry Ann Smith"
+    },
+	{
+      "id": 3,
+      "name": "Dan Simple"
+    }
+  ]
+}
